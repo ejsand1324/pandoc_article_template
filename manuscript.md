@@ -15,8 +15,8 @@ Lines can be added or deleted
 If adding line in middle, end line with a space and \
 -->
 **Corresponding author** \
-Dr. First A. Author \
-University of Pandoc \
+Dr. Erik J. Sand \
+University of Central Florida \
 42 Printers Lane \
 2031, Randwick, NSW, Australia \
 email: fa.author@pandoc.au \
