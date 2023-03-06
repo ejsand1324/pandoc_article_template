@@ -2,11 +2,11 @@
 # References and Reference Style
 csl: journal-of-neurophysiology.csl
 bibliography: references.bib
-citeproc: true # required in pandoc 2.14
+# citeproc: true # required in pandoc 2.14
 
 # Names of Input and Output Files
 input-file: manuscript.md
-output-file: manuscript.pdf  # Change to .docx to make a Word file
+output-file: eriktest2.pdf  # Change to .docx to make a Word file
 
 # Addition to LaTeX Template
 include-in-header: header.tex # Change margin and line spacing
@@ -17,7 +17,7 @@ include-after-body: after_body.tex
 pdf-engine: xelatex
 variables:
   documentclass: article
-  mainfont: "DejaVu Serif"
+  mainfont: "Helvetica" #DejaVu Serif
   sansfont: Arial
   classoption:
     - 10pt # 11pt, 12pt
